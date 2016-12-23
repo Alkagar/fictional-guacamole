@@ -1,0 +1,20 @@
+{
+  "name": "fictional-guacamole",
+  "version": "1.0.0",
+  "description": "private node package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alkagar/fictional-guacamole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alkagar/fictional-guacamole/issues"
+  },
+  "homepage": "https://github.com/Alkagar/fictional-guacamole#readme"
+}
